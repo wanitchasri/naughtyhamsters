@@ -2,7 +2,7 @@
 Casual online bluffing party game inspired by “Sheriff of Nottingham”
 
 Project Contributor: Sutisan Nilrattanakul <br />
-Remark: This project was implemented as a part of Senior Project I course at VMS ABAC. Note that there exist addressed, unfixed bugs in the project.
+Remark: This project was implemented as a part of Senior Project I course at VMS ABAC. Note that there exist addressed, unresolved bugs in the project.
 
 **Game Setup** <br />
 * 4 players per game
