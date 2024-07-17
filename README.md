@@ -1,5 +1,6 @@
 **NAUGHTY HAMSTERS** <br />
-Casual online bluffing party game inspired by “Sheriff of Nottingham”
+Casual online bluffing party game inspired by “Sheriff of Nottingham” <br />
+Gameplay Demo: https://youtu.be/GdH6dFD62x4
 
 Project Contributor: Sutisan Nilrattanakul <br />
 Remark: This project was implemented as a part of Senior Project I course at VMS ABAC. Note that there exist addressed, unresolved bugs in the project.
